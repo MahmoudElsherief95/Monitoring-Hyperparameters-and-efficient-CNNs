@@ -137,7 +137,7 @@ wise multiplication.
 Today, neural networks frequently have millions or billions of parameters. However, CNNs have become more computationally efficient over the years. How far can you get with a limited amount of compute?
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Exercise 6: Training (4 points)
+### Exercise 6: Training 
 
 In order to get a feeling for hyperparameter search, you have to try it out on some example. You can use the monitoring tools from previous exercises to log performance and get a feeling for which hyperparameters work well.
 
